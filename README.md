@@ -1,25 +1,3 @@
-## Hi there 👋
-
-<!--
-**IlyassBa/IlyassBa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IlyassBa.IlyassBa" />
 
@@ -60,7 +38,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,scss,html,css,vscode,github,figma,photoshop,illustrator,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,c++,mysql,django" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,mysql,django" /><br>
 </div>
 
 <br/>
