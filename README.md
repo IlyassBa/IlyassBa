@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **MAGX**
  
- 🌱 I’m currently learning *Django, C++/C, Typescript *
+ 🌱 I’m currently learning **Django, C++/C, Typescript**
 
 💬 Ask me about **Node.js, React, ExpressJS... or anything [here](https://github.com/IlyassBa/IlyassBa/issues)**
 
