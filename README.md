@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MAGX**
+ 🔭 I’m currently working with **INIBUILDS**
  
  🌱 I’m currently learning **Django, C++/C, Typescript**
 
