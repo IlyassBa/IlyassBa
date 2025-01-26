@@ -13,9 +13,9 @@
  
  🔭 I’m currently working with **INIBUILDS**
  
- 🌱 I’m currently learning **Django, C++/C, Typescript**
+ 🌱 I’m currently learning ** C++/C, ORACLE DB**
 
-💬 Ask me about **Node.js, React, ExpressJS... or anything [here](https://github.com/IlyassBa/IlyassBa/issues)**
+💬 Ask me about **Django, Typescript, Node.js, React, ExpressJS... or anything [here](https://github.com/IlyassBa/IlyassBa/issues)**
 
 
  </div>
