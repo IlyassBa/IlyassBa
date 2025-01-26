@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working with **INIBUILDS**
+ 🔭 I’m currently working with **Not ur buisness**
  
  🌱 I’m currently learning ** C++/C, ORACLE DB**
 
