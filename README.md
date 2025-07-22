@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning ** C++/C, ORACLE DB**
 
-💬 Ask me about **Django, Typescript, Node.js, React, ExpressJS... or anything [here](https://github.com/IlyassBa/IlyassBa/issues)**
+💬 Ask me about **TypeScript, React, Angular, ExpressJS, MSFS SDK, FSComponent ... or anything [here](https://github.com/IlyassBa/IlyassBa/issues)**
 
 
  </div>
